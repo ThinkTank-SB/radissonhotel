@@ -1,0 +1,69 @@
+{
+  "common": {
+    "findHotel": "Find a Hotel",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "learnMore": "Learn More",
+    "joinNow": "Join Now",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "myAccount": "My Account",
+    "search": "Search",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "back": "Back",
+    "next": "Next"
+  },
+  "header": {
+    "menu": "Menu",
+    "findHotels": "Find Hotels",
+    "destinations": "Destinations",
+    "offers": "Offers",
+    "meetings": "Meetings & Events",
+    "brands": "Our Brands",
+    "rewards": "Rewards"
+  },
+  "footer": {
+    "company": "Company",
+    "ourBrands": "Our Brands",
+    "customerSupport": "Customer Support",
+    "stayConnected": "Stay Connected",
+    "newsletter": "Subscribe to our newsletter",
+    "copyright": "© {year} Radisson Hotel Group. All rights reserved."
+  },
+  "home": {
+    "heroTitle": "Experience Exceptional Hospitality Worldwide",
+    "heroSubtitle": "Discover luxury accommodations and unforgettable experiences at over 1,100 Radisson hotels globally",
+    "featuredHotels": "Featured Hotels",
+    "popularDestinations": "Popular Destinations",
+    "specialOffers": "Special Offers",
+    "exclusiveDeals": "Discover our exclusive deals and special offers to make your stay even more memorable",
+    "membershipTitle": "Join Radisson Rewards",
+    "membershipSubtitle": "Become a member and unlock exclusive benefits and rewards at over 1,100 hotels worldwide."
+  },
+  "booking": {
+    "findAndBook": "Find and Book a Hotel",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "rooms": "Rooms",
+    "specialCode": "Special Code (Optional)",
+    "promoCode": "Promotional Code",
+    "rewardPoints": "Reward Points",
+    "travelAgent": "Travel Agent",
+    "corporate": "Corporate",
+    "searchHotels": "Search Hotels",
+    "membersSaveMore": "Members Save More",
+    "signInForRates": "Sign in to your account to unlock exclusive member rates."
+  }
+}

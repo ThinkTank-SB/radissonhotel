@@ -1,0 +1,69 @@
+{
+  "common": {
+    "findHotel": "Buscar un Hotel",
+    "bookNow": "Reservar Ahora",
+    "viewDetails": "Ver Detalles",
+    "learnMore": "Más Información",
+    "joinNow": "Únete Ahora",
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "myAccount": "Mi Cuenta",
+    "search": "Buscar",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "back": "Atrás",
+    "next": "Siguiente"
+  },
+  "header": {
+    "menu": "Menú",
+    "findHotels": "Buscar Hoteles",
+    "destinations": "Destinos",
+    "offers": "Ofertas",
+    "meetings": "Reuniones y Eventos",
+    "brands": "Nuestras Marcas",
+    "rewards": "Recompensas"
+  },
+  "footer": {
+    "company": "Empresa",
+    "ourBrands": "Nuestras Marcas",
+    "customerSupport": "Atención al Cliente",
+    "stayConnected": "Mantente Conectado",
+    "newsletter": "Suscríbete a nuestro boletín",
+    "copyright": "© {year} Radisson Hotel Group. Todos los derechos reservados."
+  },
+  "home": {
+    "heroTitle": "Experimenta una Hospitalidad Excepcional en Todo el Mundo",
+    "heroSubtitle": "Descubre alojamientos de lujo y experiencias inolvidables en más de 1,100 hoteles Radisson a nivel mundial",
+    "featuredHotels": "Hoteles Destacados",
+    "popularDestinations": "Destinos Populares",
+    "specialOffers": "Ofertas Especiales",
+    "exclusiveDeals": "Descubre nuestras ofertas exclusivas para hacer tu estancia aún más memorable",
+    "membershipTitle": "Únete a Radisson Rewards",
+    "membershipSubtitle": "Conviértete en miembro y desbloquea beneficios exclusivos y recompensas en más de 1,100 hoteles en todo el mundo."
+  },
+  "booking": {
+    "findAndBook": "Buscar y Reservar un Hotel",
+    "checkIn": "Entrada",
+    "checkOut": "Salida",
+    "guests": "Huéspedes",
+    "rooms": "Habitaciones",
+    "specialCode": "Código Especial (Opcional)",
+    "promoCode": "Código Promocional",
+    "rewardPoints": "Puntos de Recompensa",
+    "travelAgent": "Agente de Viajes",
+    "corporate": "Corporativo",
+    "searchHotels": "Buscar Hoteles",
+    "membersSaveMore": "Los Miembros Ahorran Más",
+    "signInForRates": "Inicia sesión en tu cuenta para desbloquear tarifas exclusivas para miembros."
+  }
+}
